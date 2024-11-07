@@ -1,0 +1,81 @@
+{
+    "menu1":[
+        {"id":1,"menutitle":"Our Products","menulink":"#","iconclass":"fa-solid fa-chevron-down ms-1",
+        
+        "menu2":[
+            {"id":3,"title":"All Products","link":"#"},
+            {"id":4,"title":"Ice Cream","link":"#"},
+            {"id":5,"title":"Twix Cookie Dough","link":"#"}
+        ]
+    
+    },
+        {"id":2,"menutitle":"Recipes","menulink":"#","iconclass":"d-none","menu2":[]}
+    
+    ],
+
+    "menuRight":[
+        {"id":6,"title":"Where To Buy","link":"#","divClass":"vertical-line d-none d-lg-flex d-xl-flex d-xxl-flex ","iconClass":"d-none","liClass":"d-none d-lg-flex d-xl-flex d-xxl-flex h-100","aClass":"d-flex w-100 h-100"},
+        {"id":7,"title":"Contact & Help","link":"#","divClass":"d-none","iconClass":"d-none","liClass":"h-100 d-none d-lg-flex d-xl-flex d-xxl-flex","aClass":"d-flex w-100 h-100"},
+        {"id":8,"title":"Search","link":"#","divClass":"d-none","iconClass":"fa-solid fa-magnifying-glass m-1","liClass":"h-100 d-none d-lg-flex d-xl-flex d-xxl-flex","aClass":"d-flex w-100 h-100"},
+        {"id":9,"title":"Menu","link":"#","divClass":"d-none","iconClass":"fa-solid fa-bars m-1","liClass":"h-100 d-flex d-lg-none mt-3 ","aClass":"d-flex w-100 sm-menu"}
+    ],
+    "moreToTwix":[
+        {"id":10,"class":"col-12 d-none d-lg-block","src":"./img/TWIX_BANNER_1440x640_V2.jpg","alt":"twix-banner"},
+        {"id":11,"class":"col-12 d-flex d-lg-none h-auto ","src":"./img/TWIX_BANNER_375x612_V2.jpg","alt":"twix-banner"}
+    
+    ],
+    "blueCircles":[
+        {"id":12,"src":"./img/00040000574545.png","alt":"Twix","title1":"Product","title2":"Two flavors finaly united: Twix Salted Caramel","titlebtn":"Discover","link1":"#","linkbtn":"#"}
+        
+    
+    ],
+    "products":[
+        {"id":13,"src":"./img/TWIXUS_FlexFramer_Original2.jpg","alt":"twix","title":"All Products","titlebtn":"EXPLORE","linkbtn":"#","linktitle":"#","linkimg":"#"},
+        {"id":14,"src":"./img/TWIXUS_FlexFramer_cookiedough2.jpg","alt":"twix","title":"Twix Cookie Dough","titlebtn":"EXPLORE","linkbtn":"#","linktitle":"#","linkimg":"#"},
+        {"id":15,"src":"./img/TWIXUS_FlexFramer_icecream2.jpg","alt":"twix","title":"Twix Ice Cream","titlebtn":"EXPLORE","linkbtn":"#","linktitle":"#","linkimg":"#"}
+        
+    
+    ],
+    "product2":[
+        {"id":16,"src":"./img/n86h55dcvbg5c8p7jcmd.png","alt":"twix","titlesmall":"RECIPE","titlelarge":"Twix Dulce De Leche Brownies","linktitlelarge":"#","linkbtn1":"#","linkbtn2":"#","linkbtn3":"#","titlebtn1":"TRY IT","titlebtn2":"SEE DETAILS","titlebtn3":"WHERE TO BUY","text1":"MADE WITH","text2":"WHERE TO BUY"}
+    ],
+    "sliderpages":[
+        {"id":17,"src":"./img/slider/1.jpg","alt":"twixSocialMedia","imglink":"#"},
+        {"id":18,"src":"./img/slider/2.jpg","alt":"twixSocialMedia","imglink":"#"},
+        {"id":19,"src":"./img/slider/3.jpg","alt":"twixSocialMedia","imglink":"#"},
+        {"id":20,"src":"./img/slider/4.jpg","alt":"twixSocialMedia","imglink":"#"},
+        {"id":21,"src":"./img/slider/5.jpg","alt":"twixSocialMedia","imglink":"#"}
+    ],
+    "links":[
+        {"id":22,"link":"#","text":"Contact & Help"},
+        {"id":22,"link":"#","text":"Where To Buy"},
+        {"id":22,"link":"#","text":"Mars Sustainability"}
+    ],
+    "socialicons":[
+        {"id":23,"link":"#","iconclass":"fa-brands fa-square-facebook"},
+        {"id":24,"link":"#","iconclass":"fa-brands fa-instagram"},
+        {"id":25,"link":"#","iconclass":"fa-brands fa-twitter"},
+        {"id":26,"link":"#","iconclass":"fa-brands fa-youtube"}
+    ],
+    "followUs":[
+        {"id":27,"title":"FOLLOW US ON"}
+        
+    ],
+    "footerLinks":[
+        {"id":28,"link1":"#","link2":"#","link3":"#","link4":"#","text1":"Note to Parents","text2":"Cookie Notice","text3":"Legal","text4":"Accessibility"},
+        {"id":29,"link1":"#","link2":"#","link3":"#","link4":"#","text1":"Supply Chain Transparency","text2":"Cookie Settings","text3":"Ad Choice","text4":"FAQ"},
+        {"id":30,"link1":"#","link2":"#","link3":"#","link4":"","text1":"Modern Slavery Act","text2":"Privacy Policy","text3":"Your Privacy Choices","text4":""}
+        
+    ],
+    "disclaimer":[
+        {"id":31,
+        "title":"This is a marketing site",
+        "paragraph":"This is a marketing site This site includes information, games, advertisements and promotional offers featuring our products. Children should get a parent’s permission before visiting any website or giving personal information. You must be 18 or older to shop online.",
+        "trademark":"® TM Trademarks © Mars, Incorporated 2024. Other trademarks are property of their respective owners."}
+    ],
+    "footerEnd":[
+        {"id":32,"title":"LOVE TWIX®? Check out more brands from Mars Wrigley.","btnlink":"#","btntitle":"SEE ALL"}  
+    ]
+
+
+}
